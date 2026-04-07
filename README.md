@@ -5,9 +5,9 @@ Built using Flask (Python), HTML/CSS, and MySQL, this project demonstrates full-
 
 Objectives
 Develop a web-based event registration system
-
 Store and manage student data using a database
-
 Provide a clean and user-friendly interface
-
 Design a cloud-ready and scalable architecture
+
+# CLI
+GCLOUD

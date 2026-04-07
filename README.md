@@ -40,16 +40,16 @@ cd event-registration-system
 python -m venv venv
 venv\Scripts\activate       
 
-# 3️⃣ Install Dependencies
+# 2️⃣ Install Dependencies
 pip install flask flask_sqlalchemy pymysql
 
-# 4️⃣ Configure Database
+# 3️⃣ Configure Database
 Update your MySQL credentials in app.py:
 app.config['SQLALCHEMY_DATABASE_URI'] = 'mysql+pymysql://username:password@localhost/eventdb'
 Then create database:
 CREATE DATABASE eventdb;
 
-# 5️⃣ Run Application
+# 4️⃣ Run Application
 python app.py
 Visit:
 👉 http://127.0.0.1:5000/

@@ -31,7 +31,7 @@ Remote accessibility
 Reduced infrastructure management
 Pay-as-you-use pricing
 
-# Installation & Setup
+# 1️⃣ Installation & Setup
 git clone https://github.com/tanishkaprabhu7/event-registration-system.git
 cd event-registration-system
 # 2️⃣ Create Virtual Environment

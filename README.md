@@ -33,7 +33,7 @@ Pay-as-you-use pricing
 
 # Installation & Setup
 1️⃣ Clone Repository
-git clone https://github.com/your-username/event-registration-system.git
+git clone https://github.com/your-tanishkaprabhu7/event-registration-system.git
 cd event-registration-system
 
 # 2️⃣ Create Virtual Environment
